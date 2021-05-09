@@ -1,0 +1,41 @@
+.Always {
+    text-align: left;
+    font: normal normal bold 49px/57px Raleway;
+    letter-spacing: 0px;
+    color: #FFD836;
+    opacity: 1;
+    margin-bottom: 0;
+}
+
+.Home {
+    text-align: left;
+    font: normal normal bold 49px/57px Raleway;
+    letter-spacing: 0px;
+    font-weight: 600;
+    color: #6882EF;
+    opacity: 1;
+    margin-top: -17px;
+}
+
+.Info {
+    margin: 30px 0; 
+    text-align: left;
+    font: normal normal 400 14px/21px Raleway;
+    letter-spacing: 0px;
+    color: #593D3D;
+    opacity: 1;
+}
+.Book {
+    background: transparent linear-gradient(90deg, #8DA3FF 0%, #6781EF 100%) 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+    border:none;
+    text-align: center;
+    font: normal normal bold 24px/29px Raleway;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 60%;
+    padding: 15px 0;
+    margin-top: 40px;
+}

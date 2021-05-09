@@ -1,0 +1,12 @@
+.AppLogo {
+    height: 40px;
+    pointer-events: none;
+}
+  
+.App .AppHeader {
+    font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+    color: #61dafb;
+}
